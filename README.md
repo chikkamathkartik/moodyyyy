@@ -14,7 +14,7 @@ pinned: false
 A web application that detects emotions in text using a fine tuned Transformer model, built with HuggingFace Transformers, PyTorch, and Streamlit.
 
 ##  Live Demo
-[Click here to try it live](#) <!-- We'll add the real link after deployment tomorrow -->
+[Click here to try it live](https://huggingface.co/spaces/haiku123412/Moodyyyy) <!-- We'll add the real link after deployment tomorrow -->
 
 ##  How It Works
 1. User enters any text in the input box
