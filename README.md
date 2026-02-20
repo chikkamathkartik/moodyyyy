@@ -1,3 +1,14 @@
+---
+title: Moodyyyy
+emoji: 🎭
+colorFrom: purple
+colorTo: blue
+sdk: streamlit
+sdk_version: "1.32.0"
+app_file: app.py
+pinned: false
+---
+
 # 🎭 Moodyyyy - Real Time Emotion Detection
 
 A web application that detects emotions in text using a fine tuned Transformer model, built with HuggingFace Transformers, PyTorch, and Streamlit.
